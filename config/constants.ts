@@ -24,8 +24,8 @@ export const SITE_CONFIG = {
   },
 
   description: "Explore Tiger365 and Tigerexch365 the trusted platform for secure gaming and seamless betting. Download the Tiger365 App to get instant access and create your Tiger365 ID for a smooth, fast, and reliable experience",
-  whatsappNumber: "918872189471",
-  whatsappLink: "https://wa.me/918872189471",
+  whatsappNumber: "917589045547",
+  whatsappLink: "https://wa.me/917589045547",
   url: "https://tiger-exchange247.com/tiger365/",
 
   // ==========================================
