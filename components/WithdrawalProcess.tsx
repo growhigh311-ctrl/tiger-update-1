@@ -6,10 +6,10 @@ export default function WithdrawalProcess() {
     <section className={`section-padding ${styles.section}`}>
       <div className="container">
         <h2 className="section-title text-center">
-          <span>{SITE_CONFIG.brand.name}</span> Withdrawal Process – Fast, Transparent, Guaranteed
+          Tiger365 Withdrawal Process – Fast, Transparent & Guaranteed
         </h2>
         <p className={`text-center ${styles.subtitle}`}>
-          The most important question any bettor asks is: “Will I actually get my money?” At {SITE_CONFIG.brand.name}, the answer is always yes – and it comes quickly.
+          The most common question new bettors ask is, “Will I be able to withdraw my winnings?” The short answer is yes, and you can do it with ease and speed.
         </p>
 
         <div className={styles.methodsGrid}>
@@ -17,21 +17,21 @@ export default function WithdrawalProcess() {
             <div className={styles.icon}>📱</div>
             <h3>UPI (GPay, PhonePe, Paytm)</h3>
             <div className={styles.time}>Instant to 30 mins</div>
-            <p>The most popular method because of its speed and availability across virtually every smartphone in India.</p>
+            <p>Fastest withdrawal method as it is compatible with all smartphones in India</p>
           </div>
           
           <div className={styles.methodCard}>
             <div className={styles.icon}>🏦</div>
             <h3>Bank Transfer (NEFT/IMPS)</h3>
             <div className={styles.time}>1 to 2 hours</div>
-            <p>For larger withdrawals or members who prefer direct bank credit, available around the clock.</p>
+            <p>Most reliable withdrawal method available 24/7</p>
           </div>
 
           <div className={styles.methodCard}>
             <div className={styles.icon}>₿</div>
             <h3>Crypto (USDT, Bitcoin)</h3>
             <div className={styles.time}>5 to 15 mins</div>
-            <p>Members who prefer cryptocurrency withdrawals have the option for crypto payouts with near-instant processing times.</p>
+            <p>Cryptocurrency wallet withdrawals are processed almost instantly</p>
           </div>
         </div>
 

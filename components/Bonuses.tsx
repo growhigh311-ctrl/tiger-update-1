@@ -13,22 +13,22 @@ export default function Bonuses() {
           <div className={styles.card}>
             <div className={styles.badge}>CODE: TIGER500</div>
             <h3>500% Welcome Bonus</h3>
-            <p>The highest welcome bonus in the Indian online betting space. Deposit up to ₹50,000.</p>
+            <p>The most generous welcome bonus in India betting industry. The deposited amount is multiplied by 5x for you to play with</p>
             <ul className={styles.list}>
-              <li>Deposit ₹500 → Play with ₹3,000</li>
-              <li>Deposit ₹1,000 → Play with ₹6,000</li>
-              <li>Deposit ₹5,000 → Play with ₹30,000</li>
-              <li>Deposit ₹10,000 → Play with ₹60,000</li>
+              <li>₹500 deposit = ₹3,000 to play</li>
+              <li>₹1,000 deposit = ₹6,000 to play</li>
+              <li>₹5,000 deposit = ₹30,000 to play</li>
+              <li>₹10,000 deposit = ₹60,000 to play</li>
             </ul>
           </div>
 
           <div className={styles.card}>
             <div className={styles.badge}>DAILY</div>
-            <h3>15% Daily Cashback</h3>
-            <p>Every day at midnight, 15% of your net losses from the previous day is automatically credited back to your account.</p>
+            <h3>15% Cashback</h3>
+            <p>On Every day at midnight you will get 15% of the net losses from your previous day returned to your account as a reward for betting with us.</p>
             <ul className={styles.list}>
-              <li>No claim required</li>
-              <li>No promo code needed</li>
+              <li>No claims needed</li>
+              <li>No promo codes needed</li>
               <li>Calculated automatically</li>
             </ul>
           </div>
@@ -36,7 +36,7 @@ export default function Bonuses() {
           <div className={styles.card}>
             <div className={styles.badge}>NO LIMIT</div>
             <h3>₹1,500 Referral Bonus</h3>
-            <p>Share your referral link. When friends join and deposit ₹500 or more, you receive ₹1,500 instantly.</p>
+            <p>Share your referral link and earn ₹1,500 for every person who deposits ₹500 or more with us.</p>
             <ul className={styles.list}>
               <li>5 referrals = ₹7,500</li>
               <li>20 referrals = ₹30,000</li>

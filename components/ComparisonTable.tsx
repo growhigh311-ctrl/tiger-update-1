@@ -6,10 +6,10 @@ export default function ComparisonTable() {
     <section className={`section-padding ${styles.section}`}>
       <div className="container">
         <h2 className="section-title text-center">
-          <span>{SITE_CONFIG.brand.name}</span> vs Other Platforms
+          Tiger365 vs Other Platforms
         </h2>
         <p className={`text-center ${styles.subtitle}`}>
-          The Indian online betting space has many platforms, but trust is the single most important factor. Here is how we compare.
+          India betting industry is highly competitive, and trust is the only thing that makes one platform different from the other. Here is a comparison between Tiger365 and the rest in terms of years of operation, activation process, minimum deposit, UPI withdrawal speed, welcome bonus, daily cashback, support availability, and overall user rating.
         </p>
 
         <div className={styles.tableWrapper}>

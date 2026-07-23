@@ -6,7 +6,7 @@ import { SITE_CONFIG } from "@/config/constants";
 const faqs = [
   {
     q: "How do I register for Tiger365?",
-    a: "Account registration on Tiger365 is easy and fast. Simply log into the website, tap the “Register” button, and enter your name and cellphone number to get your Tiger365 ID fast."
+    a: "Making an account registration on Tiger365 is a simple and quick process. Simply, log on to the website, click on the Register tab, and provide your name and phone number to get your Tiger365 ID."
   },
   {
     q: "How can one use the wallet services offered by Tiger365?",
